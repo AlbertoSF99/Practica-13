@@ -1,4 +1,4 @@
-# Práctica 12 - Creación de una base de datos con Cosmos DB
+# Práctica 13 - Creación de una base de datos con Cosmos DB
 
 ## Innovaccion Virtual (VII Edición) #IAWizards
 
